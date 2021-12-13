@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BirthdayWish</string>
+    <string name="enter_the_name">Enter The Name</string>
+    <string name="input_hint_text">Swarup</string>
+    <string name="wishplacement">WishPlacement</string>
+    <string name="wishbirthday">WishBirthday</string>
+    <string name="wishgrduation">wishGrduation</string>
+    <string name="iiit_raipur">IIIT Raipur</string>
+    <string name="entercollegename">EnterCollegeName</string>
+    <string name="happy_birthday">Happy Birthday</string>
+</resources>
